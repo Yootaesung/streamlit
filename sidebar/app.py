@@ -16,10 +16,10 @@ st.sidebar.write('**당신의 선택** : ', your_option)
 folder = './data/'
 
 image_files = [
-    'https://github.com/Yootaesung/streamlit/blob/main/sidebar/data/Vermmer.png',
-    'https://github.com/Yootaesung/streamlit/blob/main/sidebar/data/Goth.png',
-    'https://github.com/Yootaesung/streamlit/blob/main/sidebar/data/Munch.png',
-    'https://github.com/Yootaesung/streamlit/blob/main/sidebar/data/ShinYoonbok.png',
+    'https://github.com/Yootaesung/streamlit/blob/main/sidebar/data/Vermmer.png?raw=true',
+    'https://github.com/Yootaesung/streamlit/blob/main/sidebar/data/Goth.png?raw=true',
+    'https://github.com/Yootaesung/streamlit/blob/main/sidebar/data/Munch.png?raw=true',
+    'https://github.com/Yootaesung/streamlit/blob/main/sidebar/data/ShinYoonbok.png?raw=true',
 ]
 
 selectbox_options_index = selectbox_option.index(your_option)
